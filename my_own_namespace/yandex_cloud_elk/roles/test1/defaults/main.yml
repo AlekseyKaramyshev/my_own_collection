@@ -1,0 +1,3 @@
+---
+default_path: /tmp/testfile1.txt
+default_content: "Test content from custom module."

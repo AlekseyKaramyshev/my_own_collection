@@ -1,0 +1,5 @@
+---
+- name: run the new module
+  my_own_namespace.yandex_cloud_elk.my_own_module:
+    path: "{{ default_path }}"
+    content: "{{ default_content }}"
